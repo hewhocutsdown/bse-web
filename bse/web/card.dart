@@ -1,0 +1,3 @@
+static Card new Card {
+  
+}
